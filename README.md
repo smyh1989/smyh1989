@@ -15,16 +15,15 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 
 ---
 
-### 🛠 Tech Stack
-
-| Domain           | Tools & Skills                                                                    |
-|------------------|-----------------------------------------------------------------------------------|
-| Data Wrangling   | R (tidyverse), dplyr, lubridate, data cleaning, joins, feature engineering       |
-| Analysis         | Exploratory data analysis, descriptive stats, grouping & aggregation, R Markdown  |
-| Visualization    | ggplot2, R Markdown HTML/PDF reports, basic dashboard thinking                   |
-| Databases & SQL  | SQL basics, SELECT/JOIN/GROUP BY, filtering, window functions (learning)         |
-| Spreadsheets     | Google Sheets, Excel (formulas, pivot tables, charts)                            |
-| Other Interests  | UX research, data storytelling, documentation, teaching & explaining concepts    |
+| Domain              | Tools & Skills                                                           | Level             |
+| ------------------- | ------------------------------------------------------------------------ | ----------------- |
+| **R Programming**   | tidyverse, dplyr, lubridate, ggplot2, R Markdown                         | learning          |
+| **Python**          | pandas, NumPy, Jupyter Notebooks                                         | learning          |
+| **SQL**             | SELECT, JOIN, GROUP BY, filtering, window functions (learning), BigQuery | learning          |
+| **Spreadsheets**    | Excel & Google Sheets: formulas, pivot tables, charts                    | learning          |
+| **Data Analysis**   | EDA, descriptive stats, data cleaning, aggregation, feature creation     | learning          |
+| **Visualization**   | ggplot2, storytelling, R Markdown HTML/PDF                               | learning          |
+| **Other Interests** | UX research, product thinking, documentation, teaching                   | —                 |
 
 ---
 
@@ -33,7 +32,7 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 - 🚲 **Cyclistic Bike-Share Case Study**  
   Cleaned and analyzed ~5.6M bike-share rides in R to compare member vs casual behavior and propose marketing actions.
 
-- 🎓 **Google Data Analytics Certificate (in progress / completed)**  
+- 🎓 **Google Data Analytics Certificate (in progress)**  
   Practicing full analysis workflow: ask, prepare, process, analyze, share, and act.
 
 - 🧪 **Auditing Data Science & Machine Learning courses at UofT’s Data Sciences Institute**  
