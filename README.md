@@ -50,6 +50,7 @@ _(More coming soon – I’m actively building out my portfolio.)_
 - **Cyclistic Bike-Share Case Study (R)**  
   Google Data Analytics capstone-style project analyzing member vs casual rider behavior.  
   👉 [View the repository](https://github.com/smyh1989/cyclistic-case-study)
+  🌐 Live Report: https://smyh1989.github.io/cyclistic-case-study/
 
 - **(Coming soon) Health analytics project**  
   Exploring open healthcare datasets to practice cleaning, analysis, and visualization.
