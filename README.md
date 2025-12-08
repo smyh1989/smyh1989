@@ -85,6 +85,6 @@ _(More coming soon – I’m actively building out my portfolio.)_
 ### 🌐 Connect with Me
 
 - 💼 **LinkedIn:** _https://www.linkedin.com/in/somi-shafiee89_  
-- 📊 **Portfolio (GitHub Pages):** _coming soon_  
+- 📊 **Portfolio (GitHub Pages):** _https://smyh1989.github.io_  
 
 If you’re hiring for **junior data analyst / BI** roles (GTA or remote), I’d love to connect.
