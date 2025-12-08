@@ -55,9 +55,9 @@ _(More coming soon – I’m actively building out my portfolio.)_
 - **Bellabeat Fitness Tracker Case Study (R)**
       Google Data Analytics capstone-style project analyzing smart device fitness data from Bellabeat to uncover activity patterns, user behavior trends, and insights for improving engagement.
 
-      🔗 View the project:
-      📁 [View the Repository](https://github.com/smyh1989/fitbit-activity-weight-analysis)
-      🌐 Live Report: https://smyh1989.github.io/fitbit-activity-weight-analysis/bellabeat.html
+  🔗 View the project:
+  📁 [View the Repository](https://github.com/smyh1989/fitbit-activity-weight-analysis)
+  🌐 Live Report: https://smyh1989.github.io/fitbit-activity-weight-analysis/bellabeat.html
 
 
 - **SQL practice projects**
