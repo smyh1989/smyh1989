@@ -8,10 +8,10 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 
 ### 🧠 What I’m focused on
 
-- Building real **data analytics case studies** (Cyclistic bike-share, health datasets, etc.)
-- Strengthening my skills in **R, SQL, and spreadsheets**
-- Learning to communicate insights clearly for **non-technical stakeholders**
-- Sharing my progress and projects openly (LinkedIn and GitHub)
+- Building **end-to-end data analytics projects** (Cyclistic, health datasets, etc.)
+- Applying **SQL, R, and spreadsheets** to solve real-world problems  
+- Communicating insights clearly for **non-technical stakeholders**  
+- Documenting and sharing my work on GitHub and LinkedIn
 
 ---
 
