@@ -9,7 +9,7 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 ### 🧠 What I’m focused on
 
 - Building **end-to-end data analytics projects** (Cyclistic, health datasets, etc.)
-- Applying **SQL, R, and spreadsheets** to solve real-world problems  
+- Applying **SQL, Python, R, and spreadsheets** to solve real-world problems  
 - Communicating insights clearly for **non-technical stakeholders**  
 - Documenting and sharing my work on GitHub and LinkedIn
 
