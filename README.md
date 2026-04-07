@@ -33,13 +33,13 @@ I enjoy turning messy real-world data into clear stories and practical recommend
   Cleaned and analyzed ~5.6M bike-share rides in R to compare member vs casual behavior and propose marketing actions.
 
 - 🎓 **Google Data Analytics Certificate**  
-  Practicing full analysis workflow: ask, prepare, process, analyze, share, and act.
+  Completed end-to-end data analysis projects following the full workflow: ask, prepare, process, analyze, share, and act.
 
-- 🧪 **Data Science & Machine Learning courses at UofT’s Data Sciences Institute**  
-  Strengthening foundations in data wrangling, R, and analytical thinking.
+- 🤖 **AI Job Market Assistant (DSI Project – RAG + LLM)**  
+  Built an end-to-end data application to analyze job postings and evaluate resumes using real-world data.
 
-- 🕵️‍♀️ **SQL Murder Mystery & practice projects**  
-  Using fun scenarios to learn SQL querying, joins, and investigative thinking.
+- 🕵️‍♀️ **SQL Practice Projects**  
+  Solved investigative scenarios (SQL Murder Mystery) to develop querying, joins, and analytical problem-solving skills.
 
 ---
 
