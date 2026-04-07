@@ -19,7 +19,7 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 | ------------------- | ------------------------------------------------------------------------ | 
 | **R Programming**   | tidyverse, dplyr, lubridate, ggplot2, R Markdown                         | 
 | **Python**          | pandas, NumPy, Jupyter Notebooks                                         | 
-| **SQL**             | SELECT, JOIN, GROUP BY, filtering, window functions (learning), BigQuery | 
+| **SQL**             | SELECT, JOIN, GROUP BY, filtering, window functions, BigQuery            | 
 | **Spreadsheets**    | Excel & Google Sheets: formulas, pivot tables, charts                    | 
 | **Data Analysis**   | EDA, descriptive stats, data cleaning, aggregation, feature creation     | 
 | **Visualization**   | ggplot2, storytelling, R Markdown HTML/PDF                               |
@@ -45,8 +45,6 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 
 ### 📂 Selected Projects
 
-_(More coming soon – I’m actively building out my portfolio.)_
-
 - **AI Job Market Assistant (RAG + LLM + Resume Evaluation)**  
   Built an end-to-end data application that analyzes job market trends and evaluates resumes using real job postings.  
   - Collected live job data via Adzuna API and stored it in a vector database (ChromaDB)  
@@ -67,19 +65,14 @@ _(More coming soon – I’m actively building out my portfolio.)_
   📁 [View the Repository](https://github.com/smyh1989/fitbit-activity-weight-analysis)
   🌐 Live Report: https://smyh1989.github.io/fitbit-activity-weight-analysis/bellabeat.html
 
+ 
+- **SQL Practice Projects (SQL)**  
+Solved investigative scenarios (SQL Murder Mystery) to strengthen querying skills.  
+- Complex SELECT queries  
+- JOINs and filtering  
+- Analytical problem-solving  
 
-- **SQL practice projects**
-  
-  - 🕵️‍♀️ **SQL Murder Mystery & SQL Practice Projects (SQL)**  
-  Investigated a fictional crime scene using SQL queries to uncover clues, filter suspects, and solve the case.  
-  This project helped strengthen my skills in:
-  - Writing complex SELECT queries  
-  - Using JOINs effectively  
-  - Filtering and narrowing datasets  
-  - Investigative and analytical reasoning  
-
-  🔗 **Try the interactive mystery:** https://mystery.knightlab.com/  
-
+🔗 https://mystery.knightlab.com/
 ---
 
 ### 🤝 How I Work
@@ -93,6 +86,6 @@ _(More coming soon – I’m actively building out my portfolio.)_
 ### 🌐 Connect with Me
 
 - 💼 **LinkedIn:** _https://www.linkedin.com/in/somi-shafiee89_  
-- 📊 **Portfolio (GitHub Pages):** _https://smyh1989.github.io_  
+  
 
 If you’re hiring for **junior data analyst / BI** roles (GTA or remote), I’d love to connect.
