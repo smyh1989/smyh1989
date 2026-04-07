@@ -11,19 +11,19 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 - Building real **data analytics case studies** (Cyclistic bike-share, health datasets, etc.)
 - Strengthening my skills in **R, SQL, and spreadsheets**
 - Learning to communicate insights clearly for **non-technical stakeholders**
-- Sharing my progress and projects openly (LinkedIn, GitHub, and GitHub Pages)
+- Sharing my progress and projects openly (LinkedIn and GitHub)
 
 ---
 
-| Domain              | Tools & Skills                                                           | Level             |
-| ------------------- | ------------------------------------------------------------------------ | ----------------- |
-| **R Programming**   | tidyverse, dplyr, lubridate, ggplot2, R Markdown                         | learning          |
-| **Python**          | pandas, NumPy, Jupyter Notebooks                                         | learning          |
-| **SQL**             | SELECT, JOIN, GROUP BY, filtering, window functions (learning), BigQuery | learning          |
-| **Spreadsheets**    | Excel & Google Sheets: formulas, pivot tables, charts                    | learning          |
-| **Data Analysis**   | EDA, descriptive stats, data cleaning, aggregation, feature creation     | learning          |
-| **Visualization**   | ggplot2, storytelling, R Markdown HTML/PDF                               | learning          |
-| **Other Interests** | UX research, product thinking, documentation, teaching                   | —                 |
+| Domain              | Tools & Skills                                                           | 
+| ------------------- | ------------------------------------------------------------------------ | 
+| **R Programming**   | tidyverse, dplyr, lubridate, ggplot2, R Markdown                         | 
+| **Python**          | pandas, NumPy, Jupyter Notebooks                                         | 
+| **SQL**             | SELECT, JOIN, GROUP BY, filtering, window functions (learning), BigQuery | 
+| **Spreadsheets**    | Excel & Google Sheets: formulas, pivot tables, charts                    | 
+| **Data Analysis**   | EDA, descriptive stats, data cleaning, aggregation, feature creation     | 
+| **Visualization**   | ggplot2, storytelling, R Markdown HTML/PDF                               |
+| **Other Interests** | UX research, product thinking, documentation, teaching                   | 
 
 ---
 
@@ -35,7 +35,7 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 - 🎓 **Google Data Analytics Certificate**  
   Practicing full analysis workflow: ask, prepare, process, analyze, share, and act.
 
-- 🧪 **Auditing Data Science & Machine Learning courses at UofT’s Data Sciences Institute**  
+- 🧪 **Data Science & Machine Learning courses at UofT’s Data Sciences Institute**  
   Strengthening foundations in data wrangling, R, and analytical thinking.
 
 - 🕵️‍♀️ **SQL Murder Mystery & practice projects**  
@@ -46,6 +46,14 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 ### 📂 Selected Projects
 
 _(More coming soon – I’m actively building out my portfolio.)_
+
+- **AI Job Market Assistant (RAG + LLM + Resume Evaluation)**  
+  Built an end-to-end data application that analyzes job market trends and evaluates resumes using real job postings.  
+  - Collected live job data via Adzuna API and stored it in a vector database (ChromaDB)  
+  - Implemented semantic search using embeddings and Retrieval-Augmented Generation (RAG)  
+  - Developed an AI-powered resume evaluator to match candidate skills with job requirements  
+  - Designed a pipeline using LangChain for query rewriting, retrieval, and response generation  
+  🔗 [View the Repository](https://github.com/smyh1989/job-market-assistant)
 
 - **Cyclistic Bike-Share Case Study (R)**  
   Google Data Analytics capstone-style project analyzing member vs casual rider behavior.  
