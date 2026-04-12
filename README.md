@@ -72,7 +72,7 @@ Solved investigative scenarios (SQL Murder Mystery) to strengthen querying skill
 - JOINs and filtering  
 - Analytical problem-solving  
 
-🔗 [View the Source](https://mystery.knightlab.com)
+  🔗 [View the Source](https://mystery.knightlab.com)
 ---
 
 ### 🤝 How I Work
