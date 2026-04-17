@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Somi
 
-**Junior Data Analyst | Toronto, Canada**  
+**Data Analyst | Toronto, Canada**  
 Former educator & designer pivoting into data analytics.  
 I enjoy turning messy real-world data into clear stories and practical recommendations.
 
