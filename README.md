@@ -1,36 +1,40 @@
 ### 👋 Hey, I'm Somi
 
-**Data Analyst | Toronto, Canada**  
-Former educator & designer pivoting into data analytics.  
-I enjoy turning messy real-world data into clear stories and practical recommendations.
+**Data & Business Analyst | Toronto, Canada**  
+I turn complex data into clear insights, actionable recommendations,
+and stakeholder-ready reports that support better business decisions.
 
 ---
 
 ### 🧠 What I’m focused on
 
-- Building **end-to-end data analytics projects** (Cyclistic, health datasets, etc.)
-- Applying **SQL, Python, R, and spreadsheets** to solve real-world problems  
-- Communicating insights clearly for **non-technical stakeholders**  
-- Documenting and sharing my work on GitHub and LinkedIn
+- Building BI dashboards and KPI reports for business stakeholders
+- Using SQL, Power BI, Python, and R to solve real business problems
+- Translating data findings into clear recommendations for
+  non-technical audiences
+- Documenting requirements, workflows, and analytical processes
+  with precision
 
 ---
 
-| Domain              | Tools & Skills                                                           | 
-| ------------------- | ------------------------------------------------------------------------ | 
-| **R Programming**   | tidyverse, dplyr, lubridate, ggplot2, R Markdown                         | 
-| **Python**          | pandas, NumPy, Jupyter Notebooks                                         | 
-| **SQL**             | SELECT, JOIN, GROUP BY, filtering, window functions, BigQuery            | 
-| **Spreadsheets**    | Excel & Google Sheets: formulas, pivot tables, charts                    | 
-| **Data Analysis**   | EDA, descriptive stats, data cleaning, aggregation, feature creation     | 
-| **Visualization**   | ggplot2, storytelling, R Markdown HTML/PDF                               |
-| **Other Interests** | UX research, product thinking, documentation, teaching                   | 
+| Domain                | Tools & Skills                                                           | 
+| -------------------   | ------------------------------------------------------------------------ | 
+| **BI & Dashboards**   | Power BI (DAX, data modeling), Tableau, Excel                            | 
+| **Business Analysis** | Requirements gathering, process mapping,stakeholder reporting            | 
+| **SQL & Databases**   | Joins, CTEs, window functions, aggregations, BigQuery                    | 
+| **Python**            | pandas, NumPy, LangChain, RAG, OpenAI API                                | 
+| **R Programming**     | tidyverse, ggplot2, R Markdown                                           | 
+| **Data Analysis**     | EDA, KPI tracking, data cleaning, statistical analysis                   |
 
 ---
 
 ### 📌 Recent Highlights
 
+- 🏦 Banking KPI Dashboard (Power BI)
+  Built a 4-page Power BI dashboard tracking retail banking KPIs churn, deposits, credit scores, and acquisition trends.
+
 - 🚲 **Cyclistic Bike-Share Case Study**  
-  Cleaned and analyzed ~5.6M bike-share rides in R to compare member vs casual behavior and propose marketing actions.
+  Analyzed ~5.6M ride records to deliver 3 marketing recommendations backed by data visualizations and a published report.
 
 - 🎓 **Google Data Analytics Certificate**  
   Completed end-to-end data analysis projects following the full workflow: ask, prepare, process, analyze, share, and act.
@@ -38,8 +42,6 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 - 🤖 **AI Job Market Assistant (DSI Project – RAG + LLM)**  
   Built an end-to-end data application to analyze job postings and evaluate resumes using real-world data.
 
-- 🕵️‍♀️ **SQL Practice Projects**  
-  Solved investigative scenarios (SQL Murder Mystery) to develop querying, joins, and analytical problem-solving skills.
 
 ---
 
@@ -67,19 +69,20 @@ I enjoy turning messy real-world data into clear stories and practical recommend
 
  
 - **SQL Practice Projects (SQL)**  
-Solved investigative scenarios (SQL Murder Mystery) to strengthen querying skills.  
-- Complex SELECT queries  
-- JOINs and filtering  
-- Analytical problem-solving  
+    Solved investigative scenarios (SQL Murder Mystery) to strengthen querying skills.  
+    - Complex SELECT queries  
+    - JOINs and filtering  
+    - Analytical problem-solving  
 
-  🔗 [View the Source](https://mystery.knightlab.com)
+    🔗 [View the Source](https://mystery.knightlab.com)
 ---
 
 ### 🤝 How I Work
 
-- I like **clear, reproducible code** (R Markdown, commented scripts, organized repos).  
-- I care about **explanations as much as numbers** – why the result matters, not just what it is.  
-- My background in teaching helps me **translate technical findings** into everyday language.
+- I write clean, reproducible code with clear documentation.
+- I care about the "why" behind results — not just the numbers.
+- My background in teaching helps me communicate technical findings in plain language for any audience.
+
 
 ---
 
@@ -88,4 +91,4 @@ Solved investigative scenarios (SQL Murder Mystery) to strengthen querying skill
 - 💼 **LinkedIn:** _https://www.linkedin.com/in/somi-shafiee89_  
   
 
-If you’re hiring for **junior data analyst / BI** roles (GTA or remote), I’d love to connect.
+If you're hiring for Data Analyst, BI Analyst, or Business Analyst roles (GTA or remote), I'd love to connect.
